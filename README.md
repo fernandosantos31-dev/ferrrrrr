@@ -1,1 +1,3 @@
-# ferrrrrr
+# ferrrrrrComparando com outras fontes
+O relatório Vigitel Brasil analisa apenas pessoas adultas e considera o tempo semanal dedicado à prática de atividades físicas, enquanto minha pesquisa incluiu pessoas de diferentes idades e perguntou apenas quantos dias por semana elas praticam atividades físicas.
+Percebi que existem diferenças entre as duas pesquisas, o que dificulta uma comparação direta. Porém, os resultados ajudam a compreender melhor os hábitos de atividade física da população. Em pesquisas futuras, seria interessante incluir perguntas sobre idade, duração e intensidade das atividades para obter resultados mais completos e próximos de estudos maiores.
